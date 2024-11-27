@@ -12,5 +12,5 @@ Sécurité des réseaux 2023-2024
 | Labos | Notes |
 | ---- | ---- |
 | Labo 2 | 4.9 |
-| Labo 4 | 5.7 |
+| Labo 3 | 5.7 |
 | Labo 5 | 5.6 |
